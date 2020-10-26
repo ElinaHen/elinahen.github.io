@@ -1,0 +1,32 @@
+body	{
+	
+	background-color: #000000;
+	color: #ffffff;
+}
+
+h1{
+	font-size: 20px;
+
+}
+
+p{
+	font-size: 12px;
+	color: #3fda20;
+	;
+
+}
+
+ol{
+	list-style-type: upper-alpha;
+}
+
+ul{
+	list-style-type:square;
+}
+
+
+
+
+
+
+
