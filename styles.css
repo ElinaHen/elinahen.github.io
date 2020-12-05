@@ -1,32 +1,78 @@
-body	{
-	
-	background-color: #000000;
-	color: #ffffff;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d2e3e6;
 }
 
-h1{
-	font-size: 20px;
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    /* text-shadow: 2px 2px; */
+}
+
+#h1 {
+    color: rgb(185, 184, 184);
+}
+
+#h3 {
+    text-align: center;
+}
+
+a{
+    color:black;
+}
+
+a:hover{
+    color: rgb(255, 106, 47);
+    transition-duration: 2s;
+}
+
+#bg_second  {
+    background: url(pics/shellfish-3062011_640.jpg);
+    background-size: cover;
+}
+
+#bg_index  {
+    background-image: url(pics/pier-569314_640\ \(1\).jpg);
+    background-size: cover;
+}
+
+#bg_third   {
+    background-image: url(pics/hong-kong-1990268_640.jpg);
+    background-size: cover;
+}
+
+#bg_fourth   {
+    background-image: url(pics/summer-2391348_640.jpg);
+    background-size: cover;
+}
+
+#bg_form   {
+    background-image: url(pics/winter-4727156_640.jpg);
+    background-size: cover;
+}
+
+img {
+    padding: 10px;
 
 }
 
-p{
-	font-size: 12px;
-	color: #3fda20;
-	;
+#img_center  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
 
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+#form   {
+    max-width: 500px;
+    margin: auto;
+    background: #9ad8e9;
+    padding: 10px;
 }
-
-ol{
-	list-style-type: upper-alpha;
-}
-
-ul{
-	list-style-type:square;
-}
-
-
-
-
-
-
-
