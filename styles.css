@@ -20,57 +20,57 @@ h1 {
     text-align: center;
 }
 
-a{
-    color:black;
+a {
+    color: black;
+    font-weight: bold;
 }
 
-a:hover{
+a:hover {
     color: rgb(255, 106, 47);
     transition-duration: 2s;
 }
 
-#bg_second  {
+#bg_second {
     background: url(pics/shellfish-3062011_640.jpg);
     background-size: cover;
 }
 
-#bg_index  {
+#bg_index {
     background-image: url(pics/pier-569314_640\ \(1\).jpg);
     background-size: cover;
 }
 
-#bg_third   {
+#bg_third {
     background-image: url(pics/hong-kong-1990268_640.jpg);
     background-size: cover;
 }
 
-#bg_fourth   {
+#bg_fourth {
     background-image: url(pics/summer-2391348_640.jpg);
     background-size: cover;
 }
 
-#bg_form   {
+#bg_form {
     background-image: url(pics/winter-4727156_640.jpg);
     background-size: cover;
 }
 
 img {
     padding: 10px;
-
 }
 
-#img_center  {
+#img_center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    }
+}
 
 .selector-for-some-widget {
     box-sizing: content-box;
-  }
+}
 
-#form   {
+#form {
     max-width: 500px;
     margin: auto;
     background: #9ad8e9;
