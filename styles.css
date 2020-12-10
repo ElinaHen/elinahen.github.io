@@ -124,3 +124,16 @@
         color: black;
         transform: rotateY(180deg);
     }
+    
+    #rating {
+        max-width: 500px;
+        margin: auto;
+        background: #f0c6e7;
+        padding: 10px;
+        border-radius: 25px;
+        border: 2px solid black;
+    }
+    
+    .checked {
+        color: orange;
+    }
