@@ -9,6 +9,7 @@
     h1 {
         font-size: 50px;
         font-weight: bold;
+        text-shadow: 1px 1px;
         /* text-shadow: 2px 2px; */
     }
     
@@ -128,7 +129,7 @@
     #rating {
         max-width: 500px;
         margin: auto;
-        background: #f0c6e7;
+        background: #c3ecee;
         padding: 10px;
         border-radius: 25px;
         border: 2px solid black;
